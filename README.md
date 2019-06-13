@@ -1,2 +1,2 @@
 # ese1014
-Course work on Electronics System Design
+Course work on Digital Logic Design
