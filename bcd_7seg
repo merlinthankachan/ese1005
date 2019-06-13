@@ -1,3 +1,8 @@
+//===================================================================================
+// Name        : bcd_7seg.vhd
+// Author      : Merlin Mariam Thankachan
+// Description : Vhdl code to BCD to 7 segment driver
+//===================================================================================
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 entity bcd_7seg is
