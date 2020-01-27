@@ -4,7 +4,7 @@
 // Description : Vhdl code to BCD to 7 segment driver
 //===================================================================================
 
-LIBRARY ieee;
+LIBRARY ieee
 USE ieee.std_logic_1164.ALL;
 entity bcd_7seg is
 port(q0,q1,q2,q3: in bit;a,b,c,d,e,f,g:out bit);
